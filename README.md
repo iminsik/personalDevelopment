@@ -24,7 +24,8 @@ http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/
 (Book) Effective Java by Bloch
 http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/
 
-# Pose
+# Astonishing Ted Talks
 https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are
+https://www.ted.com/talks/brene_brown_on_vulnerability
 
 If you know more, please feel free to share them on the Discussion Forum!
