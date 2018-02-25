@@ -76,3 +76,12 @@ Several kinds of questions are standard in an interview setting. Make sure you s
 * Bitwise manipulation of integer representations.
 * Game theory puzzles: "muddy children", volcano eruptions.
 * Estimating bounds: "how many chickens are there in Chicago?"
+
+## Live Coding Interviews
+* http://codingbat.com/ Tons of Java programming problems, from the simple to the more complex
+* Cracking the Coding Interview by Gayle Laakmann McDowell. We highly recommend this whole book, but the website also has a lot of great information: http://www.crackingthecodinginterview.com/
+* CS9: Problem-Solving for the CS Technical Interview, Stanford University: A course offered by Cynthia Bailey Lee at Stanford University with lots of great information and problems.
+* https://www.interviewcake.com/ This site allows you to access a few free questions. If you like it, you can decide to purchase more.
+* http://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html This site has a number of good questions.
+
+Want more? Google it! There's a lot out there!
